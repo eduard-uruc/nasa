@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.err-msg {
+  color: red;
+  font-weight: 400;
+}
+
+.search-list-item {
+  min-height: 107px;
+  margin-bottom: 1em;
+}
+
+.search-list {
+  margin-top: 3em;
+}
+
+.link-router {
+  text-decoration: none;
+}
+
+.search-thumbnail {
+  width: 100px;
+  height: 55px;
+  max-width: fit-content;
+}
+
+.basic-title {
+  padding: 0.5em;
+}
+
+.page-section {
+  padding: 0 5em;
+}
